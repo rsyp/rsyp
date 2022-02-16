@@ -6,7 +6,7 @@
 # rsyf
 Twitch: [rsyf](https://twitch.tv/rsyf)
 
-Twitter: [rsyf](https://twitter.com/jersonfpp)
+Twitter: [jersonfpp](https://twitter.com/jersonfpp)
 
 
 Discord: XD
