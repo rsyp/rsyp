@@ -4,12 +4,12 @@
 
 
 # rsyf
-Twitch: 
+Twitch: [rsyf](https://twitch.tv/rsyf)
 
-Twitter:
+Twitter: [rsyf](https://twitter.com/jersonfpp)
 
 
-Discord: 
+Discord: XD
 
 
 # ypbt 
